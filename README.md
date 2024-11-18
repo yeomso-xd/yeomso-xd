@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+이건 뭐야.
+![badge](https://img.shields.io/badge/Today-21,465,110-purple)
+
 <!--
 **yeomso-xd/yeomso-xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
