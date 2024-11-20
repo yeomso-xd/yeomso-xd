@@ -1,8 +1,24 @@
-## Hi there 👋
-
-이건 뭐야.
+## 이건 뭐야
 
 ![badge](https://img.shields.io/badge/Today-21,465,110-purple)
+
+---
+
+1. 으아아아
+2. *으아아아*
+3. **으앙아**
+
+- :sob::sob:
+- `아아아ㅏ아`
+- [x] ~~으아아아아~~
+
+|th1|th2|
+|---|---|
+|td1|td2|
+
+```C
+// 대충 코드
+```
 
 <!--
 **yeomso-xd/yeomso-xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
