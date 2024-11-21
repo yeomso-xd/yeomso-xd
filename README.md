@@ -20,6 +20,10 @@
 // 대충 코드
 ```
 
+![image](https://github.com/user-attachments/assets/0e021c6c-3ffc-4405-ad21-ad9250da99a2)
+
+오오 사진도 복붙으로 업로드 되네
+
 <!--
 **yeomso-xd/yeomso-xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
